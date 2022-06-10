@@ -1,5 +1,5 @@
 ---
-version: '2'
+apiVersion: 'apps/v1'
 services:
   zookeeper:
     image: confluentinc/cp-zookeeper:7.1.0
